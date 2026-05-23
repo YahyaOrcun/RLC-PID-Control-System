@@ -255,10 +255,15 @@ This project helped improve practical and theoretical skills in:
 
 This project was developed as part of the **EEE302 Control Systems** course.
 
-- **Project Implementation:** Yahya Orçun Bilsel and Group 8
+- **Project Implementation:** Group 8 
 - **MATLAB / Simulink Analysis:** Group 8
 - **Hardware Prototyping and Pertinax Implementation:** Group 8
-
+- **Group 8:**
+Yahya Orçun BİLSEL
+Barbaros Atıf TUNÇER
+Alper ÖZKAN
+Şükrü Arda SARIOĞLU
+Kemal KARABAŞ
 ---
 
 ## License
