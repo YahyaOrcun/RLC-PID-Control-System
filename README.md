@@ -259,11 +259,11 @@ This project was developed as part of the **EEE302 Control Systems** course.
 - **MATLAB / Simulink Analysis:** Group 8
 - **Hardware Prototyping and Pertinax Implementation:** Group 8
 - **Group 8:**
-Yahya Orçun BİLSEL
-Barbaros Atıf TUNÇER
-Alper ÖZKAN
-Şükrü Arda SARIOĞLU
-Kemal KARABAŞ
+Yahya Orçun BİLSEL,
+Barbaros Atıf TUNÇER,
+Alper ÖZKAN,
+Şükrü Arda SARIOĞLU,
+Kemal KARABAŞ.
 ---
 
 ## License
